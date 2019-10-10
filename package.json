@@ -1,0 +1,15 @@
+{
+  "name": "vipnet-parser",
+  "version": "3.0.0",
+  "description": "Partial JS port of ruby gem vipnet_parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --watch"
+  },
+  "author": "Alexander Morozov",
+  "license": "WFTPL",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.1"
+  }
+}
